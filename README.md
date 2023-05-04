@@ -1,1 +1,3 @@
-Part 1 of course "React Front To Back" with @bradtraversy
+**React Feedback App**
+
+Part 1 of the course "React Front To Back" with @bradtraversy
